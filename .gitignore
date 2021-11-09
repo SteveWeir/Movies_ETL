@@ -1,0 +1,4 @@
+# Ignore config file
+config.py
+ratings.csv
+credits.csv
